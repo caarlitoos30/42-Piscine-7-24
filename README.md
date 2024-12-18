@@ -3,7 +3,7 @@
 <p>La <strong>42 Piscine</strong> es el proceso de selección intensivo para la escuela de programación 42. Durante este periodo, los participantes se sumergen en el aprendizaje de las bases de la programación en C y el uso de shell scripting, enfrentando retos diarios que fomentan el autoaprendizaje, la colaboración y la resolución de problemas.</p>
 
 <ul>
-    <li><strong>Duración:</strong> Aproximadamente 4 semanas intensivas.</li>
+    <li><strong>Duración:</strong> 4 semanas </li>
     <li><strong>Metodología:</strong> Proyectos prácticos y evaluaciones entre pares.</li>
 </ul>
 
